@@ -8,5 +8,9 @@ check it out (here)[https://trainwithshubham.ai]
 -Git and Git Hub fundamentals
 -Git hub advanced
 -Docker
+-Docker fundamentals
+-Docker Advanced
+-Phase1 exam
+-Mini project
 
 
