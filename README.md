@@ -7,5 +7,6 @@ check it out (here)[https://trainwithshubham.ai]
 - Linux for devops
 -Git and Git Hub fundamentals
 -Git hub advanced
+-Docker
 
 
