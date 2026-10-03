@@ -17,5 +17,6 @@ Note: Always do a day of assignment from #90daysofdevops
 -kubernetes
 -AWS
 -Terraform
+-Ansible
 
 
