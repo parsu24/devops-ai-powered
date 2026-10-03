@@ -1,6 +1,6 @@
 #Devops- Zero to Hero [Ai powered]
 check it out (here)[https://trainwithshubham.ai]
-
+Note: Always do a day of assignment from #90daysofdevops
 ## Topics
 
 - introduction to devops
@@ -15,5 +15,8 @@ check it out (here)[https://trainwithshubham.ai]
 -Github actions
 -jenkins
 -kubernetes
+-AWS
+-Terraform
+-Ansible
 
 
