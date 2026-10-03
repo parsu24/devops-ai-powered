@@ -14,5 +14,6 @@ check it out (here)[https://trainwithshubham.ai]
 -Mini project
 -Github actions
 -jenkins
+-kubernetes
 
 
