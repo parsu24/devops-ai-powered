@@ -6,5 +6,5 @@ check it out (here)[https://trainwithshubham.ai]
 - introduction to devops
 - Linux for devops
 - Computer Networking
--Docker
+
 
