@@ -18,5 +18,7 @@ Note: Always do a day of assignment from #90daysofdevops
 -AWS
 -Terraform
 -Ansible
+-phase-2 MCQ exam
+-Mini project
 
 
