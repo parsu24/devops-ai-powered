@@ -12,5 +12,7 @@ check it out (here)[https://trainwithshubham.ai]
 -Docker Advanced
 -Phase1 exam
 -Mini project
+-Github actions
+-jenkins
 
 
